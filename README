@@ -1,1 +1,5 @@
-Version 0 of War Thunder News Bot. Commit 0
+Version 0.2 of War Thunder News Bot.
+First working version of news bot on Python 3.5.1
+Includes Python 3.5.1 and python3-5-1.exe.
+Discord.py; lxml; requests installed using pip.
+Commit 0.2
