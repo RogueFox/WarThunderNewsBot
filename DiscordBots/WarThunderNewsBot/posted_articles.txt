@@ -1,17 +1,3 @@
-/en/news/4957-wiki-video-war-thunder-wiki-world-war-commander-s-tools-second-part-added-en
-/en/news/4954-event-happy-tanker-s-day-en
-/en/news/4958-esports-colosseum-series-of-tournaments-september-2017-en
-/en/news/4955-video-thunder-show-less-is-more-en
-/en/news/4953-development-update-1-71-the-new-e-r-a-digest-en
-/en/news/4956-competitions-war-thunder-competitions-august-winners-en
-/en/news/4952-development-gunner-s-view-en
-/en/news/4951-esports-weekend-tournaments-9th-10th-september-en
-/en/news/4950-video-video-highlights-en
-/en/news/4945-development-type-5-ho-ri-mother-of-dragons-en
-/en/news/4961-special-the-la-174-is-back-en
-/en/news/4965-video-video-highlights-en
-/en/news/4960-development-f4u-corsair-sky-pirates-are-back-en
-/en/news/4963-development-fv102-striker-five-missile-death-punch-en
 /en/news/4984-video-thunder-show-external-stimulus-en
 /en/news/4983-video-the-shooting-range-ep-62-en
 /en/news/4982-esports-weekend-tournaments-23rd-24th-of-september-en

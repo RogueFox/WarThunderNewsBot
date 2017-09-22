@@ -40,7 +40,8 @@ async def postNews():
     await postNewsBackground()
 
 async def postNewsBackground():
-    id = '352496881454153729'
+    id = '356111716792139787' #bots
+    #id = '352496881454153729' #war-thunder-news
     await client.send_message(discord.Object(id),("Obtaining latest news from War Thunder..."))
     page = requests.get('https://warthunder.com/en/news')
     tree = html.fromstring(page.content)
@@ -52,7 +53,12 @@ async def postNewsBackground():
         webLinks.append(href.attrib['href'])
     print(webLinks)
 
-    postedArticles = open('posted_articles.txt', 'r+')
+    try:
+        postedArticles = open('posted_articles.txt', 'r+')
+    except FileNotFoundError:
+        postedArticles = open('posted_articles.txt', 'w')
+        postedArticles.close()
+        postedArticles = open('posted_articles.txt', 'r+')
     linkList = postedArticles.read().splitlines()
     print(linkList)
 
